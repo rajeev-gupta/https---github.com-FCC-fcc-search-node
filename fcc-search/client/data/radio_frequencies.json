@@ -1,0 +1,105 @@
+[   {
+        "band_name": "Tremendously Low Frequency",
+        "abbreviation": "TLF",
+        "itu_band": -1,
+        "frequency_range": "0-3 Hz",
+        "wavelength": "> 100,000 km",
+        "uses": "Natural and artificial electromagnetic noise"
+    },
+    {
+        "band_name": "Extremely Low Frequency",
+        "abbreviation": "ELF",
+        "itu_band": -1,
+        "frequency_range": "3-30 Hz",
+        "wavelength": "> 100,000-10,000 km",
+        "uses": "Communication with submarines"
+    },
+    {
+        "band_name": "Super Low Frequency",
+        "abbreviation": "SLF",
+        "itu_band": -1,
+        "frequency_range": "30-300 Hz",
+        "wavelength": "10,000-1,000 km",
+        "uses": "Communication with submarines"
+    },
+    {
+        "band_name": "Ultra Low Frequency",
+        "abbreviation": "ULF",
+        "itu_band": -1,
+        "frequency_range": "300-3000 Hz",
+        "wavelength": "> 1,000-100 km",
+        "uses": "Submarine communication, communication with mines"
+    },
+    {
+        "band_name": "Very Low Frequency",
+        "abbreviation": "VLF",
+        "itu_band": 4,
+        "frequency_range": "3-30 kHz",
+        "wavelength": "100-10 km",
+        "uses": "Navigation, time signals, submarine communication, wireless heart rate monitors, geophysics"
+    },
+    {
+        "band_name": "Low Frequency",
+        "abbreviation": "LF",
+        "itu_band": 5,
+        "frequency_range": "30-300 kHz",
+        "wavelength": "> 10-1 km",
+        "uses": "Navigation, time signals, AM longwave broadcasting(Europe and parts of Asia), RFID, Amateur Radio"
+    },
+    {
+        "band_name": "Medium Frequency",
+        "abbreviation": "MF",
+        "itu_band": 6,
+        "frequency_range": "300-3000 kHz",
+        "wavelength": "1km -100 km",
+        "uses": "AM (medium-wave), broadcasts, amateur radio, avalanche beacons"
+    },
+    {
+        "band_name": "High Frequency",
+        "abbreviation": "HF",
+        "itu_band": 7,
+        "frequency_range": "3-30 MHz",
+        "wavelength": " 100-10 m",
+        "uses": "shortwave broadcasts, CB Radio, amateur radio, over-the-horizon avation communications, RFID, over-the-horizon radar, automatic link establishment, near-vertical incidence skywave radio"
+    },
+    {
+        "band_name": "Very High Frequency",
+        "abbreviation": "VHF",
+        "itu_band": 8,
+        "frequency_range": "30-300 MHz",
+        "wavelength": "10-1 m",
+        "uses": "FM, television, broadcasts, line-of-sight ground-to-aircraft and aircraft-to-aircraft communications, land mobile and maritime mobile communications, amateur radio, weather radio"
+    },
+    {
+        "band_name": "Ultra High Frequency",
+        "abbreviation": "UHF",
+        "itu_band": 9,
+        "frequency_range": "300-3,000 MHz",
+        "wavelength": "1m-100 mm",
+        "uses": "Television broadcasts, microwave oven, microwave devices/communications, radio astronomy, mobile phones, wireless LAN, Bluetooth, Zigbe, GPS, amateur radi, two-way radios such as land mobile, FRS and GMRS"
+    },
+    {
+        "band_name": "Super High Frequency",
+        "abbreviation": "SHF",
+        "itu_band": 10,
+        "frequency_range": "3-30 GHz",
+        "wavelength": "100mm-10mm",
+        "uses": "Amateur Radio, DBS, staellit television broadcasting, communications satellites, most modern radars, wireless LAN, microwave devices/communications, radio astronomy"
+    },
+    {
+        "band_name": "Extremely High Frequency",
+        "abbreviation": "EHF",
+        "itu_band": 11,
+        "frequency_range": "30-300 GHz",
+        "wavelength": "10 mm -1 mm",
+        "uses": "amateur radio, directed-energy weapon, millimeter wave scanner, radio astronomy, high-frequency microwave radio relay, microwave remote sensing "
+    },
+    {
+        "band_name": "Tremendously or Terahertz High Frequency",
+        "abbreviation": "THF",
+        "itu_band": 12,
+        "frequency_range": "300-3,000 GHz",
+        "wavelength": "1mm-1µm",
+        "uses": "Tetrahertz imaging - a potential replacement for X-rays in some medical applications, ultrafast molecular dynamics, condensed-matter physics, tetrahertz time-domain spectroscopy, tetrahertz computing/communications, sub-mm remote sensing, amateur radio"
+    }
+]
